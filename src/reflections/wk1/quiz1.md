@@ -16,6 +16,7 @@ make directory
 <!-- enter you answer in the space below -->
 ```
 It is the root of the document. It describes what type of document it is.
+
 ```
 
 **4.** What does `HTML` stand for?
