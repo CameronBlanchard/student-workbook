@@ -15,7 +15,7 @@ make directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-It is the root of the document. It describe what type of document it is.
+It is the root of the document. It describes what type of document it is.
 ```
 
 **4.** What does `HTML` stand for?
