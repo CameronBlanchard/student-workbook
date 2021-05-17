@@ -12,7 +12,8 @@
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
-``` S.  Single responsibility
+```
+    S.  Single responsibility
     O.  Open closed
     L.  Liskov substituition
     I.  Interface segregation
