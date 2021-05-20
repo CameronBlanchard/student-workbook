@@ -2,6 +2,6 @@
 
 >Get and Set.  
 
->We set a trap by providing two parameters,  the object itself and the property being accessed.
+>We set a trap by providing two parameters, the object itself and the property being accessed.
 
 >Useful for keeping data private, validation, can redefine operations. 
