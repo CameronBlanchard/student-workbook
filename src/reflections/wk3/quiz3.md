@@ -36,13 +36,13 @@ The bundling of data  so that the data is restricted from outside the bundle.
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+  An object that wraps another object and intercepts the fundamental operations of the target object.
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
 <!-- enter you answer in the space below -->
 ```
-  For encapulation.  Protecting data.
+  For encapulation, validating and  protecting data.
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
