@@ -5,7 +5,7 @@
 #  What are some of the benifits of the proxy object that we are using in our structure for applications?
 
 
->  Get and Set.
+>  Property and value.
 
 
 >  We set a trap by providing two parameters, the object itself and the property being accessed.
