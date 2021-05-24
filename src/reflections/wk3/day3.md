@@ -11,4 +11,8 @@
 >  We set a trap by providing two parameters, the object itself and the property being accessed.
 
 
->  Useful for keeping data private, validation, can redefine operations. 
+>  Useful for keeping data private, validation, can redefine operations.
+
+
+
+https://github.com/CameronBlanchard/summer21-gregslist-v1

@@ -12,3 +12,6 @@
 
 
 >  Code can be split into files of self contained functionality.  Modules help organize your code better.  Modules help with naming conflicts.  Code that references the module breaks when the module is changed or moved so it is immediately obvious.  Debugging is easier.
+
+
+

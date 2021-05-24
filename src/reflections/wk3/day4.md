@@ -13,3 +13,8 @@
 
 >  The proxy objects are validated and added.  This is done with the event listeners.  All of the data is compartmentalized and protected. We recieve data from the dom through the controller.  After it has been manipulated in Services through the AppState, it is sent back to the dom through the Controller. 
 
+
+
+
+
+https://github.com/CameronBlanchard/sporting-goods
